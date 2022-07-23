@@ -1,2 +1,2 @@
 # BIRS-CIH-Hackathon-DATA-INSIGHTERS
-## Link to the Hackathon: [Link](https://event.hackhub.com/event/cihhackathon)
+## Link to the Hackathon website: [Link](https://event.hackhub.com/event/cihhackathon)
